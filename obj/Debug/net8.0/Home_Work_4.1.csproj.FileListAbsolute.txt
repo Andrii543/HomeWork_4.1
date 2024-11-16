@@ -12,3 +12,4 @@ C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\refin
 C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.pdb
 C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.genruntimeconfig.cache
 C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\ref\Home_Work_4.1.dll
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.sourcelink.json

@@ -17,19 +17,7 @@ internal class Program
         Console.WriteLine("\n1:Понеділок \n2:Вівторок \n3:Cереда \n4:Четвер \n5:П'ятниця \n6:Субота \n7:Неділя");
         
         int userInput = Convert.ToInt32(Console.ReadLine());
-
-        // для перевірки чи користувач ввів правильне число
-        #region написав цей код бо хтів попрактикуватись на if бо вигідніше в цьому завданні зробити switch 
-        bool Verification = true;
-        if (userInput >= 7)
-        {
-            Console.WriteLine("Ви ввели не правильне число, ви можете обрати від 1 до 7");
-            Verification = false;
-        }
-        #endregion
-
-        if (Verification == true)
-        {
+    
             switch (userInput)
             {
                 case 1:
@@ -55,10 +43,10 @@ internal class Program
                     Console.WriteLine("Ви вибрали Неділя");
                     break;
                 default:
-                    Console.WriteLine("Ви вибрали не існуючий день");
+                    Console.WriteLine("Ви ввели не правильне число, ви можете обрати від 1 до 7");
                     break;
             }
-        }
+        
 
 
     }
