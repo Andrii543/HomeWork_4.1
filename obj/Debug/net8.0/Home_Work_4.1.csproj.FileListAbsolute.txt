@@ -1,0 +1,14 @@
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\bin\Debug\net8.0\Home_Work_4.1.exe
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\bin\Debug\net8.0\Home_Work_4.1.deps.json
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\bin\Debug\net8.0\Home_Work_4.1.runtimeconfig.json
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\bin\Debug\net8.0\Home_Work_4.1.dll
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\bin\Debug\net8.0\Home_Work_4.1.pdb
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.AssemblyInfo.cs
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.dll
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\refint\Home_Work_4.1.dll
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.pdb
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\Home_Work_4.1.genruntimeconfig.cache
+C:\Users\andri\source\repos\Hillel-Lesson-2\Home_Work_4.1\obj\Debug\net8.0\ref\Home_Work_4.1.dll
